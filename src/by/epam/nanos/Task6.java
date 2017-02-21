@@ -6,7 +6,7 @@ public class Task6 {
     private int[][] intMatrix = new int[matrixSize][matrixSize];
 
     Task6(){
-        System.out.println("Task 6");
+        System.out.println("\nTask 6");
 
         // Get the matrix
         for (int i = 0; i < matrixSize; i++){

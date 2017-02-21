@@ -6,7 +6,7 @@ public class Task3 {
     private int[] intArray;
 
     Task3(){
-        System.out.println("Task 3");
+        System.out.println("\nTask 3");
 
         // Get random values
         intArray = RandomArray.generateIntArray(arraySize, maxRandomValue);

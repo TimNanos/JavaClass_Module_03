@@ -7,7 +7,7 @@ public class Task2 {
     private int[] zeroPositionsArray;
 
     Task2 () {
-        System.out.println("Task 2");
+        System.out.println("\nTask 2");
 
         // Get random values
         intArray = RandomArray.generateIntArray(arraySize, maxRandomValue);

@@ -8,7 +8,7 @@ public class Task4 {
     private int[] evenArray;
 
     Task4(){
-        System.out.println("Task 4");
+        System.out.println("\nTask 4");
 
         // Get random values
         intArray = RandomArray.generateIntArray(arraySize, maxRandomValue);
